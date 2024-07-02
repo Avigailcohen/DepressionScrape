@@ -1,9 +1,9 @@
-This repo dedicated to the depression detection by using Tweets of the users:
+This repo dedicated to the depression detection by using the answers of the users:
 
 
-There are two kind of tweets that are required at this project: random tweets that do not indicate depression and tweets that shows the user may have the depression.
+There are two kind of tweets that are required at this project: random answers that do not indicate depression and answers that shows the user may have the depression.
 
-The random tweets dataset could be download from the kaggle website by the following link:https://www.kaggle.com/ywang311/twitter-sentiment/data.
+
 
 Since there is no public dataset exists regardingthe depressive tweets, the essential dataset for this project taken by the websraper with the name of TWINT using the keyword depression by scraping all tweets in an one day span.
 The tweets which taken as the result of the scrapper may contain tweets that do not shows the user have the depression,such as tweets such as tweets linking to articles about depression. 
